@@ -1,0 +1,135 @@
+body {
+    margin: 0px;
+    font-size: 13px;
+    line-height: 21px;
+    color: #FFFFFF;
+    padding: 0px;
+    font-weight: 300;
+    background-color: rgba(0,0,0,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+a {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+nav {
+    height: 35px;
+    width: 100%;
+    margin-top: 5px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    padding: 2px;
+    background-color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+nav ul {
+    width: auto;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+    font-weight: bold;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+nav li {
+    width: auto;
+    display: inline-block;
+    list-style-type: none;
+    text-align: left;
+    font-weight: bold;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+nav a {
+    margin: 25px 0px 0px 5px;
+    padding: 10px 20px 5px 40px;
+    font-style: normal;
+    text-decoration: none;
+    color: rgba(255,255,255,1.00);
+    border-color: rgba(202,78,24,1.00);
+    background-image: url(images/2.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: contain;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+nav a:hover {
+    font-weight: bold;
+    color: rgba(215,92,32,1.00);
+    background-repeat: no-repeat;
+    background-position: left center;
+    width: auto;
+    height: auto;
+    background-size: contain;
+    background-image: url(images/1.png);
+}
+header {
+    height: 361px;
+    width: 103%;
+    background-color: #CCC;
+    border-bottom: 2px none #600;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 65px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    float: none;
+    margin-top: -2px;
+    background-size: cover;
+    background-image: url(images/sky-view.jpg);
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+}
+div.centered-section {
+    width: 1000px;
+    margin: 0px auto 0px auto;
+    align-items: center;
+    text-align: center;
+}
+.category {
+    width: 300px;
+    min-height: 420px;
+    margin: 20px 0px 10px 25px;
+    float: left;
+    background-color: #011E4D;
+    -webkit-box-shadow: 3px 6px 2px 0px rgba(35, 31, 32, 0.75);
+    box-shadow: 3px 6px 2px 0px rgba(35, 31, 32, 0.75);
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.category h2 {
+	margin: 0;
+	padding: 10px;
+	font-weight: 400;
+	}
+.category img {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 3px;
+}
+.category p {
+	margin: -10px 0px -5px 0px;
+	padding: 10px 10px 10px 10px;
+}
+.category p a {
+}
+footer {
+	height: 10px;
+	text-align: center;
+	padding: 0px 0px 10px 0px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	float: left;
+	margin-top: 0px;
+}
+footer p {
+	margin: 0px;
+	padding: 5px 0px 5px 0px;
+}
+footer a {
+}
+.logo {
+    float: none;
+    padding-top: 15px;
+}
