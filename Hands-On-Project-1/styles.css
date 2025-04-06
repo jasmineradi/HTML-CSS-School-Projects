@@ -1,0 +1,59 @@
+/* Name: Jasmine Radi Date: April 4, 2025 File Name: styles.css */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #c6dee8;
+}
+
+header {
+    background-color: #a4cee6;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1em;
+    padding: 1em;
+    text-align: center;
+    margin: 1em;
+    border-radius: 1em;
+}
+
+main {
+    display: block;
+    margin: 0 auto;
+}
+
+figure {
+    float: left;
+}
+
+figcaption {
+    font-size: 1em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: #79989d;
+}
+
+section {
+    display: block;
+    float: right;
+    font-size: 1.10em;
+    background-color: #a4cee6;
+    color: #fff;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 10px;
+}
+
+div {
+    clear: both;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
