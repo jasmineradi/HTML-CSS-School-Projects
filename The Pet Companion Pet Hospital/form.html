@@ -1,0 +1,160 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>The Pet Companion Pet Hospital</title>
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+<script src="https://kit.fontawesome.com/89fb8adea4.js" crossorigin="anonymous" defer></script>
+</head>
+
+<body>
+
+  <div class="quicklinks">
+    <ul>
+      <li><i class="fa-solid fa-phone" style="color: #fff"></i><a href="tel:1234567890">Give us a call</a></li>
+      <li><i class="fa-solid fa-envelope" style="color: #ffffff;"></i><a href="mailto:email@email.com">Send us an Email</a></li>
+      <li><i class="fa-solid fa-location-dot" style="color: #ffffff;"></i><a href="https://www.google.com/maps?q=Fargo,ND" target="_blank">Get Directions</a></li>
+    </ul>
+  </div>
+
+<header>     
+  <a href="index.html" class="logo-link">
+    <img src="images/logo.png" alt="The Pet Companion Pet Hospital Logo" class="logo">
+  </a>
+  
+  <nav>
+      <a href="index.html" class="hvr-underline-from-center">Home</a>
+      <a href="about.html" class="hvr-underline-from-center">About</a>
+      <a href="staff.html" class="hvr-underline-from-center">Staff</a>
+      <a href="form.html" class="hvr-underline-from-center">Contact Us</a>
+  </nav>
+</header>
+
+<main>
+
+  <div class="hero-container">
+    <img src="images/building.png" alt="The Pet Companion Pet Hospital Building" class="hero"/>
+    <div class="hero-text">
+      <h1>Contact Us</h1>
+      <p>We are here to help you with any questions or concerns you may have. Feel free to reach out to us through the form below or by using the contact information provided.</p>
+    </div>
+  </div>
+
+  <div class="contact-container" id="contact">
+    <h2>Reach out to us with any concerns or questions.</h2>
+    <p>If you need to book an appointment or need any questions answered, please do not hesitate to reach out.</p>
+    <div class="contact-details fade-in">
+  
+        <div class="column-item">
+          <i class="fa-solid fa-phone" style="color: #fff"></i>
+          <a href="tel:123-456-7890"><p>Give us a call</a></p>
+        </div>
+  
+        <div class="column-item">
+          <i class="fa-solid fa-location-dot" style="color: #ffffff;"></i>
+          <a href="https://www.google.com/maps?q=Fargo,ND" target="_blank"><p>Get Directions</a></p>
+        </div>
+  
+        <div class="column-item">
+          <i class="fa-solid fa-envelope" style="color: #ffffff;"></i>
+          <a href="mailto:jasmineradii@gmail.com"><p>Send us an Email</a></p>
+        </div>
+    </div>
+  </div>
+
+<div class="form-container" id="form">
+  <form action="https://formspree.io/f/myzwznjv" method="POST">
+    <fieldset>
+      <legend>Get in Touch.</legend>
+
+        <p>Please fill out the form below and we will get back to you as soon as possible.</p>
+
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" autocomplete="name" required><br><br>
+
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" autocomplete="email" required><br><br>
+
+        <label for="phone">Phone:</label><br>
+        <input type="tel" id="phone" name="phone" autocomplete="phone" required><br><br>
+
+        <label for="subject">How can we help?</label><br>
+        <select id="subject" name="subject" required>
+          <option value="general" selected>General Inquiry</option>
+          <option value="appointment">Appointment Request</option>
+          <option value="feedback">Feedback</option>
+          <option value="billing">Billing Inquiry</option>
+          <option value="other">Other</option>
+        </select><br><br>
+
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
+
+        <input type="submit" value="Submit" id="submit" class="fadein">
+
+        <input type="reset" value="Reset" id="reset" class="fadein">
+
+    </fieldset>
+  </form>
+
+    <div class="hours2" id="hours">
+      <h2>Hours of Operation</h2>
+      <p>Monday - Friday: 8:00 AM - 6PM</p>
+      <p>Saturday: 9:00 AM - 1PM</p>
+      <p>Sunday: Closed</p><br>
+
+      <h2>Emergency Hours</h2>
+      <p>We are available 24/7 for emergency vet appointments.</p><br>
+    
+
+      <h2>Follow Us on Social Media</h2>
+      <p>Stay connected with us on social media for updates, tips, and more!</p>
+      <div class="social-media">
+        <a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook" style="color: #fff"></i></a>
+        <a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram" style="color: #fff"></i></a>
+        <a href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter" style="color: #fff"></i></a>
+      </div>
+    </div>
+
+</main>
+
+  <footer>
+    <div class="footer-container">
+        <div class="footer-links">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="index.html" class="hvr-underline-from-center">Home</a></li>
+            <li><a href="about.html" class="hvr-underline-from-center">About</a></li>
+            <li><a href="staff.html" class="hvr-underline-from-center">Staff</a></li>
+            <li><a href="form.html" class="hvr-underline-from-center">Contact Us</a></li>
+            <li><a href="sitemap.html" class="hvr-underline-from-center">Site Map</a></li>
+          </ul>
+        </div>
+  
+        <div class="footer-logo">
+          <img src="images/logo.png" alt="The Pet Companion Pet Hospital Logo" class="logo"/>
+        </div>
+  
+      <div class="hours">
+        <h2>Hours of Operation</h2>
+        <p>Monday - Friday: 8:00 AM - 6:00 PM</p>
+        <p>Saturday: 9:00 AM - 1:00 PM</p>
+        <p>Sunday: Closed</p>
+        <b><em><p>Emergency Services Available 24/7</b></em></p>
+      </div>
+  
+    </div>
+  
+    <div class="copyright">
+      <p>The Pet Companion Pet Hospital. Copyright &copy; 2025. All rights reserved. Website designed by Jasmine Radi.
+      <a href="https://www.github.com/jasmineradi" target="_blank"><i class="fa-brands fa-github" style="color: #fff;" ></i></a>
+      <a href="https://www.linkedin.com/in/jasmineradi" target="_blank"><i class="fa-brands fa-linkedin"  style="color: #fff;"></i></a></p>
+  </div>  
+  </footer>
+
+</body>
+</html>
