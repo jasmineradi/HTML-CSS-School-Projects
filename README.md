@@ -34,3 +34,25 @@ Features: HTML, CSS, Bootstrap, Responsive Design (Mobile, Tablet, Desktop).
 Design elements include: CSS animations, Boostrap elements including Jumbotron, text containers, columns, and more.
 
 Project status: ✔️ Fully Completed.
+
+<br>
+<br>
+<br>
+
+The Boulevard
+
+View it live: Unavailable ❌ Be sure to check out the code!
+
+<img src="blvdpng.png" width="500px" height="auto">
+
+Features: HTML, CSS, Responsive Design (Mobile, Tablet, Desktop).
+
+Design elements include: HTML, CSS, Responsive Design
+
+Project status: ✔️ Fully Completed.
+
+<br>
+<br>
+<br>
+
+
