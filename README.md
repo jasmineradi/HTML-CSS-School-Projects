@@ -39,7 +39,7 @@ Project status: ✔️ Fully Completed.
 <br>
 <br>
 
-BLVD - The Boulevard
+BLVD | The Boulevard
 
 View it live: Unavailable ❌ Be sure to check out the code!
 
