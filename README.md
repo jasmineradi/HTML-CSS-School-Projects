@@ -4,4 +4,8 @@ These projects reflect my education in HTML and CSS. I've created these projects
 <br>
 
 The Pet Companion Pet Hospital - Veterninary Clinic
-<img src="petcompanion.png" width="500px" height: "auto">
+
+<a href="https://petcompanionpethospital.netlify.app/">View it live</a>
+
+<img src="petcompanion.png" width="500px" height="auto">
+
