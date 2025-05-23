@@ -7,5 +7,3 @@ The Pet Companion Pet Hospital - Veterninary Clinic
 
 <a href="https://petcompanionpethospital.netlify.app/">View it live</a>
 
-<img src="petcompanion.png" width="500px" height="auto">
-
