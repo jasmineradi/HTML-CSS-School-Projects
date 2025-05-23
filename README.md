@@ -77,5 +77,19 @@ Features: HTML, CSS, CSS animations.
 
 Project status: ✔️ Fully Completed.
 
+<br>
+<br>
+<br>
+
+Fitness | Forward Fitness Club
+
+View it live: Unavailable ❌ Be sure to check out the code!
+
+<img src="fitness2.png" width="500px" height="auto">
+
+Features: HTML, CSS, CSS animations
+
+Project status: ✔️ Fully Completed.
+
 
 
