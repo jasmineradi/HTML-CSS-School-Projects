@@ -63,4 +63,19 @@ Features: HTML, CSS, CSS animations.
 
 Project status: ✔️ Fully Completed.
 
+<br>
+<br>
+<br>
+
+Rentals | Pensacola Rentals Project
+
+View it live: Unavailable ❌ Be sure to check out the code!
+
+<img src="rentalspng.png" width="500px" height="auto">
+
+Features: HTML, CSS, CSS animations.
+
+Project status: ✔️ Fully Completed.
+
+
 
