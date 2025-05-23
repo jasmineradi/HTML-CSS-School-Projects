@@ -91,5 +91,19 @@ Features: HTML, CSS, CSS animations
 
 Project status: ✔️ Fully Completed.
 
+<br>
+<br>
+<br>
+
+Error 404 | Custom Error 404 Page
+
+View it live: Unavailable ❌ Be sure to check out the code!
+
+<img src="errorpng.png" width="500px" height="auto">
+
+Features: HTML, CSS, CSS animations
+
+Project status: ✔️ Fully Completed.
+
 
 
