@@ -47,12 +47,20 @@ View it live: Unavailable ❌ Be sure to check out the code!
 
 Features: HTML, CSS, Responsive Design (Mobile, Tablet, Desktop).
 
-Design elements include: HTML, CSS, Responsive Design
-
 Project status: ✔️ Fully Completed.
 
 <br>
 <br>
 <br>
+
+CAC | Community Arts Council
+
+View it live: Unavailable ❌ Be sure to check out the code!
+
+<img src="CACpng.png" width="500px" height="auto">
+
+Features: HTML, CSS, CSS animations.
+
+Project status: ✔️ Fully Completed.
 
 
