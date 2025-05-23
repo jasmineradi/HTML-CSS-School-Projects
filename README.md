@@ -7,3 +7,9 @@ The Pet Companion Pet Hospital - Veterninary Clinic
 <a href="https://petcompanionpethospital.netlify.app/">View it live</a>
 
 <img src="petcompanion2.png" width="500px" height="auto">
+
+Features: HTML, CSS, Responsive Design (Mobile, Tablet, Desktop).
+
+Design elements include: Custom Logo, Photoshop Editing, CSS animations
+
+Project status: ✔️ Fully Completed.
