@@ -23,7 +23,7 @@ Project status: ✔️ Fully Completed.
 <br>
 <br>
 
-Fitness-Bootstrap | The Forward Fitness Club
+Fitness - Bootstrap | The Forward Fitness Club
 
 View it live: Unavailable ❌ Be sure to check out the code!
 
@@ -39,7 +39,7 @@ Project status: ✔️ Fully Completed.
 <br>
 <br>
 
-The Boulevard
+BLVD - The Boulevard
 
 View it live: Unavailable ❌ Be sure to check out the code!
 
